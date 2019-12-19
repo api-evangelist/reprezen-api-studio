@@ -1,0 +1,74 @@
+{
+    "name": "RepreZen API Studio",
+    "description": "Powerful IDE for API-first design, documentation & development w\/ Swagger-OpenAPI 2.0, 3.0 & RAPID-ML description languages. Multi-file editing & custom codegen",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18942-reprezen-api-studio.jpg",
+    "tags": [
+        "clients",
+        "design",
+        "have api",
+        "studio"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/reprezen-api-studio\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RepreZen API Studio",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18942-reprezen-api-studio.jpg",
+            "humanURL": "http:\/\/www.reprezen.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/reprezen-api-studio-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.reprezen.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.reprezen.com\/blog\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/reprezen"
+        },
+        {
+            "type": "Email",
+            "url": "info@reprezen.com"
+        },
+        {
+            "type": "Email",
+            "url": "Contact.Us@RepreZen.com"
+        },
+        {
+            "type": "Email",
+            "url": "Sales@RepreZen.com"
+        },
+        {
+            "type": "Email",
+            "url": "Support@RepreZen.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/reprezen"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/reprezen_API"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.reprezen.com\/"
+        }
+    ]
+}
